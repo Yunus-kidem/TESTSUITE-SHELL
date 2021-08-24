@@ -8,7 +8,7 @@ The goal in this project was to make us understand how a shell works.
 
 ## Usage
 In order to run this program,
-Clone This Repo
+Clone The simple shell Repo 
 
 `` https://github.com/Yunus-kidem/simpleShell ``
 
